@@ -1,0 +1,2 @@
+# logger-awesome
+Functional Logging
